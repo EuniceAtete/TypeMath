@@ -1,4 +1,4 @@
-import { add, subtract, multiply, divide } from "./calculator";
+import { add, subtract, multiply, divide } from "./calc.js";
 
 console.log("Math Toolkit 🧮");
 console.log("5 + 3 =", add(5, 3));
